@@ -1,0 +1,25 @@
+/* Put in your css here */
+p{
+  color:blue;
+}
+h1{
+    color: green;
+    font-size: 50px;
+}
+body{
+  background: black;
+  font-family: helvetica;
+}
+li{
+    display:inline;
+    padding:10px 10px 10px 10px;
+}
+ul{
+    background:rgba(0,0,0,.4);
+}
+header {
+    text-align: center;
+    background:url('http://www.shamusyoung.com/twentysidedtale/images/candy1.jpg');
+    background-size: cover;
+    color: white;
+}
